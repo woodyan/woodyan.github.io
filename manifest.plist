@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://woodyan.github.io/img/ApxQA.ipa</string>
+                    <string>http://woodyan.github.io/img/ApxQA.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
@@ -19,11 +19,9 @@
                 <key>bundle-identifier</key>
                 <string>com.zhbservice.zhbservice</string>
                 <key>bundle-version</key>
-                <string>Version Number</string>
-                <key>3.0</key>
+                <string>3.0</string>
+                <key>kind</key>
                 <string>software</string>
-                <key>releaseNotes</key>
-                <string>0</string>
                 <key>title</key>
                 <string>Apx</string>
             </dict>
